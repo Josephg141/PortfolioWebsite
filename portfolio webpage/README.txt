@@ -26,6 +26,7 @@ This is a personal portfolio website built entirely from scratch using only **HT
 
 ## How to Run
 Simply open `index.html` in your browser. No installation is required.
+Will make online once it is finished.
 
 ## License
 This project is for personal and educational purposes. Feel free to explore and learn from the code, but please do not copy it verbatim as your own portfolio.
