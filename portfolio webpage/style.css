@@ -403,3 +403,39 @@ nav img {
     box-shadow: 5px 5px 5px rgba(78, 78, 78, 0.5);
     margin-left: 50px;
 }
+.projects-box2 {
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 750px;
+    height: 580px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px;
+
+}
+.projects-header2 h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-left: 280px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    color: #333;
+}
+.projects-header2 p {
+    font-size: 25px;
+    margin-left: 60px;
+    margin-bottom: 100px;
+    color: #666;
+}
+.projects-header2 li {
+    list-style: none;
+    margin-left: 10px;
+    margin-top: -80px;
+}
+.projects-header2 img {
+    width: 600px;
+    height: 400px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(78, 78, 78, 0.5);
+    margin-left: 50px;
+}
