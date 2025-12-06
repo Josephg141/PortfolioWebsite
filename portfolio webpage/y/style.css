@@ -398,11 +398,12 @@ nav img {
 }
 .projects-header img {
     display: flex;
-    width: 600px;
-    height: 400px;
+    width: 80%;
+    height: 100%;
     border-radius: 5px;
     box-shadow: 5px 5px 5px rgba(78, 78, 78, 0.5);
-    margin-left: 50px;
+    margin-left: 5%;
+    box-shadow: 5px 5px 5px rgba(78, 78, 78, 0.5);
 }
 .projects-box2 {
     margin-top: 40px;
@@ -414,51 +415,51 @@ nav img {
     box-shadow: 0 4px 8px;
 
 }
-.projects-header2 h1 {
+ /* Put the rest from ^ and up all percentages for better scaling. */
+.projects-header2 h1 { 
     font-size: 32px;
     font-weight: bold;
-    margin-left: 280px;
-    margin-top: -20px;
-    margin-bottom: 20px;
+    margin-left: 37%;
+    margin-top: -2%;
+    margin-bottom: 2%;
     color: #333;
 }
 .projects-header2 p {
     font-size: 25px;
-    margin-left: 60px;
-    margin-bottom: 100px;
+    margin-left: 10%;
+    margin-bottom: 10%;
     color: #666;
 }
 .projects-header2 li {
     list-style: none;
-    margin-left: 10px;
-    margin-top: -80px;
+    margin-left: 1%;
+    margin-top: -7%;
 }
 .projects-header2 img {
-    width: 600px;
-    height: 400px;
+    width: 80%;
+    height: 100%;
     border-radius: 5px;
     box-shadow: 5px 5px 5px rgba(78, 78, 78, 0.5);
-    margin-left: 50px;
+    margin-left: 5%;
 }
 
 .description-box1 {
-    margin-left: 800px;
-    width: 750px;
-    height: 200px;
+    margin-left: 90vh;
+    width: 100%;
+    height: 170%;
     background-color: #ffffff;
     border-radius: 15px;
     box-shadow: 0 4px 8px;
-    margin-top: -400px;
-    padding: 20px;
+    margin-top: -50%;
+    padding: 3%;
 }
 .description-box2 {
-    margin-left: 800px;
-    width: 750px;
-    height: 200px;
+    margin-left: 90vh;
+    width: 100%;
+    height: 170%;
     background-color: #ffffff;
     border-radius: 15px;
     box-shadow: 0 4px 8px;
-    margin-top: -400px;
-    padding: 20px;
+    margin-top: -40%;
+    padding: 3%;
 }
-
